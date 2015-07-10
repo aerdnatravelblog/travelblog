@@ -22,7 +22,7 @@ If you like street art, join the alternative Berlin tour. Our guide Carl from Sc
 
 # East SiWee Gallery
 
-![East Side Gallery](/a erlin/berlin4.jpg "East Side Gallery")
+![East Side Gallery](/img/berlin/berlin4.jpg "East Side Gallery")
 
 ![East Side Gallery](/img/berlin/berlin5.jpg "East Side Gallery")
 
@@ -49,7 +49,7 @@ Sunday night all major clubs play mostly minimal techo or housy music. Since we 
 Super fast service and good quality food. The food came five minutes after we have ordered. You can choose from a daily menu or order a la carte and the prices are more then reasonable, from 5-10 eur.  We ordered chicken with mango and minced meat rolls with noodles and fresh vegetables. Both dishes and the home made limonade were super fresh. The Pho soup was ok, we have had better though. The service was efficient and nice. For two daily menu dishes, the pho soup and two home made limonades we paid 33 eur.
 
 [Curry 36](http://www.curry36.de/), Mehringdamm 36 und Bahnhof Zoologischer Garten
-They claim that it is the best curry wurst in the city, The sauce was obviously home made and Andrea chose an organic sausage which was juicy and soft. For a middle sized saucage with fries we paid 3,50 eur. Nice and cheap lunch. 10 metres from Curry 36 is probably one of the best places to eat kebab but prepare yourself to wait for at least 30 minutes, it is called Mustafa. We were standing by watching people getting their kebabs and they looked awesome, very fresh and in big sizes.
+They claim that it is the best curry wurst in the city, The sauce was obviously home made and Andrea chose an organic sausage which was juicy and soft. For a middle sized sausage with fries we paid 3,50 eur. Nice and cheap lunch. 10 metres from Curry 36 is probably one of the best places to eat kebab but prepare yourself to wait for at least 30 minutes, it is called Mustafa. We were standing by watching people getting their kebabs and they looked awesome, very fresh and in big sizes.
 
 [Burgermeister](http://www.burgermeister.berlin/), Oberbaumstrasse 8
 This is very nice and cheap fast food in the Kreuzberg district. I would appreciate a bigger portion of meat, but what can you ask for if you pay 4 eur for a burger. The bun was delicious and obviously home made, the fries were also very good. Waiting in the queue, ordering and preparation time, all together it took max 20 minutes to get our food.
