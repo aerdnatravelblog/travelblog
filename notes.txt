@@ -1,0 +1,54 @@
+Notes:
+
+
+On homepage, tags, list of recent blogs
+
+Recent posts in a shorte version. sign up
+
+nice page, with likes and about on the side
+
+http://benstewart.net/2014/06/bootstrap-grid-calculation-explained/
+
+## Open Graph
+- edit this in header to change titel, description, image for facebook
+http://ogp.me/
+
+## fonts
+http://www.typewolf.com/open-source-web-fonts
+
+
+### Salento
+Nasua
+
+from salento to Armenia = 4000 p.p.
+from Armenia to Cali = 20.000 COP pp.
+
+### Cusco
+Good empanadas in Panaderia check fotos
+
+
+
+
+
+
+
+## Pictures
+
+900 x 600 na sirku, spravny pomer
+675 x 450 landscape + portrait 300 x 450
+560 x 373 two landscape
+
+2592 x 3888 portrait
+1140x248 header
+
+800 x 533 do slideshow
+675 x 506 gopro fotky do galerie
+
+
+
+## galapagos
+
+http://tame.com/
+
+
+## bus from Guayaquill to Cuenca 8.25 p.p.

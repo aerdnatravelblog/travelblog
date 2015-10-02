@@ -3,9 +3,12 @@ date=2015-07-01
 type=post
 tags=blog, Bogota, Colombia, travel, 
 status=published
+summary=Street art in Bogota is nowadays well established and recognized by its citizens, landlords and shop owners. Street art is present everywhere but especially in Candelaria, where artists can even work by daylight in safe zones. Some landlords choose to commission international artists to avoid having their facade being tagged. Once the facade is covered with a piece, other artists respect it and they don't paint over it.
+description=This page offers information on Colombias capital city. Read more about where to eat, where to go for a beer and what to do in Bogota. 
+primary_image=/img/bogota/bogota_header.jpg  
 ~~~~~~
 <img src="/img/bogota/bogota_header.jpg"/>
-## Attraction
+## Attractions
 
 ### Museo Botero
 * [http://www.banrepcultural.org/museo-botero](http://www.banrepcultural.org/museo-botero)

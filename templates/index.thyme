@@ -13,12 +13,16 @@
 			<div th:each="post : ${published_posts}">
 				<a th:href='${post.uri}' href='href'><h1 th:text='${post.title}'>title</h1></a>
 				<p th:text='${#dates.format(post.date,"dd MMMM yyyy")}'>date</p>
-				<p th:utext='${post.body}'>body</p>
+				<p><img th:if="${post.summary}" th:src="${post.primary_image}"/></p>
+				<p th:if="${post.summary}" th:utext='${post.summary}'>body</p>
+				<p th:if="${post.summary}"><a th:href='${post.uri}'>Read more</a></p>
+				
+				<p th:unless="${post.summary}" th:utext='${post.body}'>body</p>
 			</div>
 				
 			<hr />
 			
-			<p>Older posts are available in the <a th:href='${content.rootpath+config.archive_file}' href='href'>archive</a>.</p>
+		<!-- 	<p>Older posts are available in the <a th:href='${content.rootpath+config.archive_file}' href='href'>archive</a>.</p> -->
 		</div>
 	</div>
 	

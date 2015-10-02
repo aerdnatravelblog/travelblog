@@ -1,0 +1,11 @@
+site.host=http://www.viabohemia.net
+render.tags=false
+render.sitemap=true
+template.index.file=index.thyme
+template.archive.file=archive.thyme
+template.tag.file=tags.thyme
+template.sitemap.file=sitemap.thyme
+template.post.file=post.thyme
+template.page.file=page.thyme
+template.category.file=category.thyme
+template.feed.file=feed.thyme

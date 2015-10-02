@@ -50,3 +50,14 @@ body {
 /*code {
   font-size: 80%;
 }*/
+
+
+/* Picture slider */
+
+.slick-prev:before, .slick-next:before{
+    color:red !important;
+}
+
+/* #####################################################*/
+
+@font-family-sans-serif { 'Fira Sans', sans-serif;}

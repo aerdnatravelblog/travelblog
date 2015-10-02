@@ -3,14 +3,18 @@ date=2015-06-26
 type=post
 tags=blog, Berlin, travel, 
 status=published
+summary=When one of our best friends moved to Berlin, we knew that sooner or later we will come to visit him. Andrea has never been to Berlin before. She loves techno music, art and good food, so for her Berlin was a must-do-trip. Berlin is incredibly cheap, provided you eat on the street, drink beer (not cocktails) and you stay in a hostel rather then a hotel.
+description=Berlin is the capital of the world when it comes to electronic music. Read about the best clubs, the best food and what to do in Berlin.
 ~~~~~~
  
 When one of our best friends moved to Berlin, we knew that sooner or later we will come to visit him. Andrea has never been to Berlin before. She loves techno music, art and good food, so for her Berlin was a must-do-trip. Berlin is incredibly cheap, provided you eat on the street, drink beer (not cocktails) and you stay in a hostel rather then a hotel. In that case you can experience Berlin on a budget. Berlin offers lot of fun activities and attractions. To visit all of the techno clubs in Berlin, would be our favorite choice. However, if you are not into electronic music, Berlin offers lot of exhibitions, galleries, museums, concerts and a free street art tour, which we highly recommend. 
 
-## Free street art tour
+You can find more information here:
 
 * [http://www.visitberlin.de/en/see/museums-art/art](http://www.visitberlin.de/en/see/museums-art/art)
 * [http://www.exberliner.com/](http://www.exberliner.com)
+
+## Free street art tour
 
 If you like street art, join the alternative Berlin tour. Our guide Carl from Scotland who really loves this city and obviously knows a lot about the history and its underground subcultures. The tour started in the center, district Mitte. He showed us pieces from El Bocho, Sobre, Mr. Six and others. Then we moved on to the most "alternative" district, Kreuzberg. Since the tour we have looked at the city with different eyes, looking for art everywhere. We really appreciated that we were a small group about ten people and we didn't disturb people around, because every time we kept distance. We also got tips about good restaurants and clubs where to go. This was a free tour and the three hours passed quickly, however we were very satisfied and left a tip and so did the rest of our group. 
 
@@ -20,7 +24,7 @@ If you like street art, join the alternative Berlin tour. Our guide Carl from Sc
 
 ![Alt text](/img/berlin/berlin3.jpg "Optional title")
 
-# East SiWee Gallery
+# East Side Gallery
 
 ![East Side Gallery](/img/berlin/berlin4.jpg "East Side Gallery")
 
