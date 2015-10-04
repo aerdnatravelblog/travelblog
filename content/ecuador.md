@@ -10,5 +10,8 @@ status=published
 	<div class="col-sm-4"><h3>Latacunga, Cotopaxi, Quilotoa</h3><a href="/blog/2015/latacunga.html"><img src="/img/latacunga/latacunga_cat.jpg"/></a></div>	
 	<div class="col-sm-4"><h3>Banos</h3><a href="/blog/2015/banos.html"><img src="/img/banos/banos_cat.jpg"/></a></div>
 </div>
+<div class="row">
+	<div class="col-sm-4"><h3>Montanita &amp; Isla de la Plata</h3><a href="/blog/2015/montanita.html"><img src="/img/montanita/montanita_cat.jpg"/></a></div>
 
+</div>
 
