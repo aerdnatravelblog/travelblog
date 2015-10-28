@@ -2,19 +2,23 @@
 <html lang="en">
 	<head th:fragment="head">
 	    <meta charset="utf-8"/>
-	    <title th:with="title=(${content.title != null} ? ${content.title} : 'www.viabohemia.net')" th:text="${title}"></title>
+	    <title th:with="title=(${content.title != null} ? ${content.title} : 'Viabohemia Blog | The Bohemian Way')" th:text="${title}"></title>
 	    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 	    <meta name="description" th:content="${content.description != null} ? ${content.description} : 
 	    'Viabohemia is an inspiring travelblog about South America. You will find information on where to stay, where to eat and what to do in South America.'"/>
 	    <meta name="author" content="Andrea Olivova"/>
-	    <meta name="keywords" th:with="keywords=(${content.keywords != null} ? ${content.keywords} : 'viabohemia, Travel, Blog, Travelblog, Berlin, South America, Colombia, Ecuador, Peru, Bolivia')" th:content="${keywords}" />
+	    <meta name="keywords" th:with="keywords=(${content.keywords != null} ? ${content.keywords} : 'viabohemia, Travel, Blog, Travelblog, South America, Colombia, Ecuador, Peru, Bolivia, Berlin')" th:content="${keywords}" />
 	    <meta name="generator" content="viabohemia.net"/>
 	    <!-- open graph meta tags -->
-	    <meta property="og:title" th:with="title=(${content.title != null} ? ${content.title} : 'www.viabohemia.net')" th:content="'www.viabohemia.net - ' + ${title}" />
+	    <meta property="og:title" th:with="title=(${content.title != null} ? ${content.title} : 'Viabohemia Blog | The Bohemian Way')" th:content="${title}" />
 		<meta property="og:type" content="article" />
-		<meta property="og:url" th:content="'http://www.viabohemia.net/' + ${content.uri}" />
+		<meta property="og:url" th:with="uri=(${content.uri != null} ? ${content.uri} : 'index.html')"
+		th:content="'http://www.viabohemia.net/' + ${uri}" />
 		<meta property="og:image" th:if="${content.fb_image}" th:content="'http://www.viabohemia.net' + ${content.fb_image}" />
-	
+	    <meta property="og:locale" content="en_US" />
+	    <meta property="og:site_name" content="Viabohemia Blog" />
+
+
 	    <!-- Le styles -->
 	    <link th:with="rootpath=(${content.rootpath != null} ? ${content.rootpath} : '')" th:href="${rootpath}+'css/bootstrap.min.css'" rel="stylesheet"/>
 	    <link th:with="rootpath=(${content.rootpath != null} ? ${content.rootpath} : '')" th:href="${rootpath}+'css/asciidoctor.css'" rel="stylesheet"/>
