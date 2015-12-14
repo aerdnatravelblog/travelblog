@@ -39,7 +39,7 @@ We took surfing lessons with Coco. Unfortunately we forgot the name of the schoo
 
 ![Mancora](/img/mancora/mancora4.jpg "Mancora")
 
-http://www.vivamancora.com/english/surf.htm
+* http://www.vivamancora.com/english/surf.htm
 
 ### Swimming with sea turtles
 
