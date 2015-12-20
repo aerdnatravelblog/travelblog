@@ -11,7 +11,7 @@ fb_image=/img/paracas/paracas6.jpg
 ~~~~~~
 <img src="/img/paracas/paracas_header.jpg"/>
 
-We arrived to Huacachina, an oasis in the dessert. Huacachina is close to Ica. As we already had a bus ticket Ica - Cusco, we wanted to visit Huacachina. We had just one day and night for the popular activities there: buggy ride and sand boarding. We arrived to Huacachina just half an hour before the start of the tour. We read some reviews on Internet and we assumed that the trip booked directly in our hostel "The dessert nights" should be fine. 
+We arrived to Huacachina, an oasis in the desert. Huacachina is close to Ica. As we already had a bus ticket Ica - Cusco, we wanted to visit Huacachina. We had just one day and night for the popular activities there: buggy ride and sand boarding. We arrived to Huacachina just half an hour before the start of the tour. We read some reviews on Internet and we assumed that the trip booked directly in our hostel "The desert nights" should be fine. 
 We jumped in to the buggy and we drove off to the dunes. We arrived at the dunes and the driver tried to drive uphill, but the engine could not deliver its full power and we started to go backwards. He tried it once more with a longer approach. No success, there was obviously something wrong. We stopped and he cleaned the air filter. We were sad, we knew that we can not prolong our stay. All the other buggies left and we were stuck in a dune. The driver realized he can't solve the issue in the dunes. He turned around back to the oasis to switch the car. "Yuppi!" This time the car sounded more solid and powerful and once again we started to enjoy the ride. All of a sudden, right in the ascend on a dune, he killed the engine. He tried to start it several times, we could hear that this one will not go anywhere. 
 To our surprise he stopped another passing by buggy and the driver agreed to take us on board. We were joking with the other passengers that for sure this buggy will brake in a few minutes again. Luckily that didn't happen and it turned out to be an awesome ride. The driver was going crazy, we were jumping up and down in the buggy, flying over the dunes, laughing and screaming. This buggy was super fast and furious, like out of a mad max movie.
 
@@ -57,7 +57,7 @@ The whole trip took about two hours.
 ### Paracas natural reserve
 
 There is a lot to explore in this protected area. Unfortunately, we had just one short afternoon to. We rented bicycles in the city and explored the park on our own. We recommend to invest a bit more money in the rental bikes. We rented two crappy bikes for 25 PEN. 
-The entrance fee to the park is 15 PEN p.p. This was a combined ticket, valid also for Islas Ballestas. It saved us 5 PEN p.p. Our first stop was at the museum where we spend two hours. The museum is dedicated to Paracas marine and "dessert" life. It was very organized and informative. We continued to the Playa Roja. This beach got the name for its red colored sand. The waves and wind were very strong. The name Paracas came from the indigenous languages and you could translate it into "raining sand" - how appropriate.
+The entrance fee to the park is 15 PEN p.p. This was a combined ticket, valid also for Islas Ballestas. It saved us 5 PEN p.p. Our first stop was at the museum where we spend two hours. The museum is dedicated to Paracas marine and "desert" life. It was very organized and informative. We continued to the Playa Roja. This beach got the name for its red colored sand. The waves and wind were very strong. The name Paracas came from the indigenous languages and you could translate it into "raining sand" - how appropriate.
 
 ![Paracas Natural Reserve](/img/paracas/paracas9.jpg "Paracas Natural Reserve")
 
@@ -67,7 +67,7 @@ The entrance fee to the park is 15 PEN p.p. This was a combined ticket, valid al
 
 ### Buggy riding and sand boarding
 
-There are several agencies providing this tour. We described our experience with "Dessert nights" in our story above. You will make a few stops on the dunes for the sand boarding. Igor is an experienced snowboarder, he took a snowboard from the Hostel. The rest of us enjoyed sliding on the boards belly down. Igor admitted that the snowboard was very slow on the sand. The sand boards were much faster and because the dunes are very big, we could achieve high speeds. In the end you can admire a spectacular sun set in the desert. The whole tour took around 3 hours. We received a free Pisco Sour in our Hostel. The trip costs 50 PEN p.p.
+There are several agencies providing this tour. We described our experience with "Desert nights" in our story above. You will make a few stops on the dunes for the sand boarding. Igor is an experienced snowboarder, he took a snowboard from the Hostel. The rest of us enjoyed sliding on the boards belly down. Igor admitted that the snowboard was very slow on the sand. The sand boards were much faster and because the dunes are very big, we could achieve high speeds. In the end you can admire a spectacular sun set in the desert. The whole tour took around 3 hours. We received a free Pisco Sour in our Hostel. The trip costs 50 PEN p.p.
 
 ![Buggy](/img/paracas/paracas11.jpg "Buggy")
 
@@ -78,7 +78,7 @@ There are several agencies providing this tour. We described our experience with
 
 ### La Pequena Brisa, stand 2
 
-This was our best food in Paracas. We had menu del dia - Ceviche and Chicharron de Mariscos, Inca Cola. Everything was very fresh and especially the Ceviche was delicious. The restaurant looked very clean. We tried other restaurants in Paracas but we were not satisfied with them. We had a hamburger in Huacachina in our hostel "Desserted nights" and it was absolutely disgusting. As much as we loved the stuff and atmosphere there, the food and cocktails could be better.
+This was our best food in Paracas. We had menu del dia - Ceviche and Chicharron de Mariscos, Inca Cola. Everything was very fresh and especially the Ceviche was delicious. The restaurant looked very clean. We tried other restaurants in Paracas but we were not satisfied with them. We had a hamburger in Huacachina in our hostel "Desert nights" and it was absolutely disgusting. As much as we loved the stuff and atmosphere there, the food and cocktails could be better.
 
 ![Ceviche](/img/paracas/paracas13.jpg "Ceviche")
 
@@ -90,7 +90,7 @@ Paracas is very small city, you can walk everywhere. This hostel was located clo
 
 ## Where to stay in Huacachina
 
-### The Dessert nights
+### The Desert nights
 
 This hostel has only dormitories with 8 bunk beds. Huacachina is expensive and we couldn't afford to stay in a double room. In the end, we were happy because we met very nice people. The stuff is super friendly, English speaking and funny. Anyway, you will probably stay only one night in the oasis so this type of accommodation is good enough. We paid 20 PEN p.p. They have happy hours and serve cocktails on the bar.
 
