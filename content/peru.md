@@ -13,4 +13,5 @@ status=published
 
 <div class="row">
 	<div class="col-sm-4"><h3>Paracas &amp; Huacachina</h3><a href="/blog/2015/paracas.html"><img src="/img/paracas/paracas_cat.jpg"/></a></div>
+	<div class="col-sm-4"><h3>Cusco</h3><a href="/blog/2016/cusco.html"><img src="/img/cusco/cusco_cat.jpg"/></a></div>
 </div>

@@ -28,7 +28,7 @@ Unfortunately, like almost every city in South America, the air is very polluted
 
 ## Attractions
 
-We recommend to spend at least five days. We stayed one week. Relax on your first day and try to eat good and drink a lot of water if you are not used to the altitude yet. Buy the combined Cusco tourist ticket "Boleto turistico del Cusco", that gives you access to 16 sights & attractions. It is valid for ten days and costs 130 PEN (39 USD). We have to warn you that most of the museums aren't worth much, though the Inca ruins are worth every penny. By the way, the entrance prices went up and the admission to most of the sights is 70 PEN, so if you visit 2 sights the ticket already pays off. The description of two of the Inca sights Moray and Ollantaytambo are in the next article.
+We recommend to spend at least five days. We stayed one week. Relax on your first day and try to eat good and drink a lot of water if you are not used to the altitude yet. Buy the combined Cusco tourist ticket "Boleto turistica del Cusco", that gives you access to 16 sights & attractions. It is valid for ten days and costs 130 PEN (39 USD). We have to warn you that most of the museums aren't worth much, though the Inca ruins are worth every penny. By the way, the entrance prices went up and the admission to most of the sights is 70 PEN, so if you visit 2 sights the ticket already pays off. The description of two of the Inca sights Moray and Ollantaytambo are in the next article.
 We advise you to find informations about the sight on internet and download it as offline documents to your smart phone. Or buy a good book guide. Unfortunately there are almost no informations on the sighs, not even in Spanish. We ordered the list of the sights by the significance and of its appeal. 
 
 ![Peruanas](/img/cusco/cusco3.jpg "Peruanas")
@@ -77,16 +77,12 @@ It is not easy to get here from Tipon. You have to take few busetas. These ruins
 
 ### Quenqo   
 
-First visit Tambomachay and then walk to Quenqo. Both sights are included in the Boleto turistico. Hire a guide in Quenqo because there are very interesting things to see, but you wouldn't discover them yourself. The local guides are waiting at the entrance. It was a sacred place for the Incas.
-
 ![Quenqo](/img/cusco/cusco15.jpg "Quenqo")
 
 ![Quenqo](/img/cusco/cusco16.jpg "Quenqo")
 
 
 ### Tambomachay
-
-This was one of the least interesting Inca sights what we've seen on our trip, it's very small. They probably used it as a recreational place.
 
 ![Tambomachay](/img/cusco/cusco17.jpg "Tambomachay")
 
@@ -128,7 +124,7 @@ The entrance is free and it is worth the visit. The design is very nice and mode
 
 ### Qucharitas
 
-They specialize in ice cream and they prepare it on an ice pan. Maybe you saw this style of making ice cream in Thailand. Milk is poured on the pan and then they add your selected fruits. Then the mixture is chopped until the consistence is creamy. They have also quinoa or maca flavor.
+They specialize in ice cream. 
 
 * [Qucharitas](https://www.facebook.com/qucharitas), Procuradores 385, Cusco
 
