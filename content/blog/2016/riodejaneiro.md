@@ -3,10 +3,10 @@ date=2015-10-26
 type=post
 tags=Rio de Janeiro
 status=draft
-summary=
-description=
+summary=We partied a lot in Rio, so we wanted to take it easy on New Years Eve. We decided just go for a dinner and then watch the fireworks on Copacabana beach. However, our unusual relaxed and calm night turned to a crazy story again.
+description=The former capital is the second largest city of Brazil. It is headquarters to Brazilian oil, mining, and telecommunications companies, including two of the country's major corporations—Petrobras, its leaders are now convicted from corruption and money laundering, and Vale. 
 primary_image=
-keywords=
+keywords=Rio de Janeiro, New Years Eve, Lapa, Santa Teresa, Copacabana, Ipanema, Copacabana beach, Botanical garden, street art
 fb_image=
 ~~~~~~
 <img src="/img/riodejaneiro/riodejaneiro_header.jpg"/>

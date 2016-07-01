@@ -3,10 +3,10 @@ date=2015-10-26
 type=post
 tags=Salvador
 status=draft
-summary=
-description=
+summary=Very hot weather, women dressed in colorful dress, beaches, coconut water and other fresh fruit, groups of Capoeira dancers and musicians, smiley and happy people and beautiful blue sea around. The smells, the colors and the noise of the city were very intensive.  
+description=Salvador is one of the oldest city in America. Founded by Portuguese in 15th century. The beautiful colonial city center called Pelourinho is listed as UNESCO World Heritage Site. Salvador was also the first capital city of Brazil. The urban beach Porto da Barra was awarded as the 3rd world best beach by the Guardian newspaper. 
 primary_image=
-keywords=
+keywords=Salvador, Praia Flamengo, Porto do Barra, Pelourinho, Morro de Sao Paulo, Gamboa, boat trip
 fb_image=
 ~~~~~~
 <img src="/img/salvador/salvador_header.jpg"/>
@@ -21,7 +21,7 @@ Don't listen to the people who say that there is nothing to see in Salvador and 
 
 ## How to get to Salvador
 
-We got stuck in Florianopolis because of bad weather so we decided to buy a flight ticket to Salvador and spend some time on a beach. It wasn't really cheap. However, if we would buy it in more advance it could be cheaper. We bought a flight ticket from Sao Paulo 
+We got stuck in Florianopolis because of bad weather so we decided to buy a flight ticket to Salvador and spend some time on a beach. It wasn't really cheap. However, if we would buy it in more advance it could be cheaper. We bought a flight ticket from Sao Paulo. dopsat kolik to stalo
 
 ![Salvador](/img/salvador/salvador2.jpg "Salvador")
 
@@ -146,6 +146,11 @@ http://pousadabellavida.com/site/#_=_
 
 ![Morro de Sao Paulo](/img/salvador/salvador19.jpg "Morro de Sao Paulo")
 
+## Where to stay
+
+### Pousada Passarte
+
+We had great time in this pousada....dopsat!
 
 ## Nightlife
 

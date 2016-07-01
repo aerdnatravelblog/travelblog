@@ -3,10 +3,10 @@ date=2015-10-26
 type=post
 tags=Florianopolis
 status=draft
-summary=
-description=
+summary=After few weeks of googeling the best location in Brazil which would be on the way from Puerto Iguazu to Rio de Janeiro, have stunning beaches and good nightlife, we decided for Florianopolis.
+description=Floripa is the capital city of Brazilian state Santa Catarina. The main part of the state is the island, Ilha Catalina. The city has more then 40 beaches and about some of them you can read on internet as about the best beaches in Brazil. The nightlife is also very good, Floripa is sometimes called as the New Ibiza. There are also good conditions for water sports, surfing or kitesurfing. 
 primary_image=
-keywords=
+keywords=Florianopolis, nightlife, Lagoinha do Leste, Santo Antonio do Lisboa, Joaquina beach, Campeche
 fb_image=
 ~~~~~~
 <img src="/img/florianopolis/florianopolis_header.jpg"/>

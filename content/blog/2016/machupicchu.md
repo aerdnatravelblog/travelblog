@@ -1,17 +1,17 @@
 title=How to do Machu Picchu on budget		
-date=2015-11-05
+date=2016-19-03
 type=post
 tags=Machu Picchu	
-status=draft
-summary=
-description=
+status=published
+summary=The day before we started our rail trek to Machu Picchu we were a bit nervous for some reasons. We weren't sure if the micro bus Veronica really departs from the place in front of the market in Ollantaytambo. And if we would have enough time to walk 30 km to Aguas Calientes from the train station on km 82.
+description=The sight looks very well preserved and it is unbelievable that it is more then 500 years old. It is truly a charming place. However it is very overcrowded. Go in the early morning and enjoy the sight at least for a moment without thousands of tourists. 
 primary_image=/img/machupicchu/machupicchu_header.jpg
-keywords=
-fb_image=
+keywords=machu picchu, diy machu picchu, machu picchu on budget
+fb_image=/img/machupicchu/machupicchu12.jpg
 ~~~~~~
 <img src="/img/machupicchu/machupicchu_header.jpg"/>
 
-The day before we started our rail trek to Machu Picchu we were a bit nervous from some reasons. We weren't sure if the micro bus Veronica really departs from the place in front of the market in Ollantaytambo. And if we have enough time to walk 30 km to Aguas Calientes from the train station on km 82. We woke up very early, at five o'clock and we rushed to find the Veronica bus. We were very happy when we found out that there are at least four of them, waiting for passengers. After half an hour waiting for more people, stressing that it is taking too much time and we will have to walk along the rails after dark, finally more people arrived and we left Ollantaytambo.
+The day before we started our rail trek to Machu Picchu we were a bit nervous for some reasons. We weren't sure if the micro bus Veronica really departs from the place in front of the market in Ollantaytambo. And if we would have enough time to walk 30 km to Aguas Calientes from the train station on km 82. We woke up very early, at five o'clock and we rushed to find the Veronica bus. We were very happy when we found out that there are at least four of them, waiting for passengers. After half an hour waiting for more people, stressing that it is taking too much time and we would have to walk along the rails after dark, finally more people arrived and we left Ollantaytambo.
 In two hours we arrived to the final destination and got out from bus. What a surprise, it wasn't kilometer 82 but 77. They were doing reconstructions of the road so the micro bus couldn't pass. That meant for us 5 kilometers more than we were planning and we also arrived later. 
 It wasn't the best start. In a bit grumpy mood we met young Peruvian guys with monstrously big backpacks. We started to chat with them and they told us that they have to walk like this Inca trek, about 50 kilometers. And that the backpacks weight 25 kilograms, many of them had also plastic bags in hands. Obviously they were carrying the stuff for camping for tourists. None of us couldn't imagine to carry more then three kilos that day. Respect and follow the way. 
 
@@ -21,22 +21,19 @@ It wasn't the best start. In a bit grumpy mood we met young Peruvian guys with m
 
 This is the main sight of Peru and of course we didn't want to miss it. We considered all options what we had and we decided to do it on our own, because:
 	
-	-We wanted to save time. We spent a lot of time in northern Peru and in Lima. We couldn't afford to spent another five days on the trek.
+* We wanted to save **time**. We spent a lot of time in northern Peru and in Lima. We couldn't afford to spent another five days on the trek.
 
-	-We wanted to save money. Peru is cheap country, but there is so much to do that anyway you spend a lot. All the Inca ruins, sightseeing, long distance transports, courses of surfing, amazing food and Pisco sour, that cost money.
+* We wanted to save **money**. Peru is cheap country, but there is so much to do that anyway you spend a lot. All the Inca ruins, sightseeing, long distance transports, courses of surfing, amazing food and Pisco sour, that cost money.
 
-	-We wanted to save our energy. True is that we've never walked so much in our lives like in Peru:) Don't get us wrong, we are no lazy people. We like to walk and do sports. But we already did the Santa Cruz trek, which takes 4 days and we knew that we want to do also the Colca canyon trek. We were considering Salkantay trek, but it would be too much for us. 
-	We also didn't want to do the easiest option and take the train because we wanted to deserve to see Machu Picchu. And we wanted to see the amazing nature in the Sacred Valley.
+* We wanted to save our **energy**. True is that we've never walked so much in our lives like in Peru:) Don't get us wrong, we are no lazy people. We like to walk and do sports. But we already did the Santa Cruz trek, which takes 4 days and we knew that we want to do also the Colca canyon trek. We were considering Salkantay trek, but it would be too much for us. 
+
+* We also didn't want to do the easiest option and take the train because we wanted to deserve to see Machu Picchu. And we wanted to see the amazing nature in the Sacred Valley.
 
 If you don't want to go with an agency and do it faster, you have three options:
 
-	-The Train
-
-	-Take a collectivo from Ollantaytambo to Santa Teresa and then another one to Hidroelectrica and walk 8 km (we used this option for the way back)
-
-or 
-
-	-The Rail trek, just walk along the rails like we did and then come back to Cusco with a collectivo. Through Santa Tereza. 
+* The Train
+* Take a collectivo from Ollantaytambo to Santa Teresa and then another one to Hidroelectrica and walk 8 km (we used this option for the way back)
+* The Rail trek, just walk along the rails like we did and then come back to Cusco with a collectivo. Through Santa Tereza. 
 
 <img src="/img/machupicchu/machupicchu2.jpg"/>
 
@@ -44,21 +41,21 @@ or
 
 First of all, pack very light. We decided to go for few days to Ollantaytambo and see Salinas Maras, Moray and Urubamba city, then do the Machu Picchu and then come back to Cusco. So we packed just two small backpacks and the big ones we left in our hostel in Cusco. It was more logic to leave them in Cusco. Because if we would leave them in Ollantaytambo we would have to come back there and then to travel to Cusco from where we continued to Arequipa. 
 
-    -repellent 
-	-sun cream
-	-good hiking shoes
-	-long trousers (the mosquitos over there are bloody hell)
-	-waterproof jacket (we didn't have rain, but you never know)
-	-head lamp (if you get stuck on the way and can not make it in the day light)
-	-enough water (count at least 1.5 liter p.p.)
-	-lunch and snacks - we usually take dark chocolate, musli bars, nuts, whole grain cookies, cans with tuna fish and corn, some bread. And we took also small bottle of Pisco to cheer up a bit when we were really tired:) Just please take the garbage with you.
+* repellent 
+* sun cream
+* good hiking shoes
+* long trousers (the mosquitos over there are bloody hell)
+* waterproof jacket (we didn't have rain, but you never know)
+* head lamp (if you get stuck on the way and can not make it in the day light)
+* enough water (count at least 1.5 liter p.p.)
+* lunch and snacks - we usually take dark chocolate, musli bars, nuts, whole grain cookies, cans with tuna fish and corn, some bread. And we took also small bottle of Pisco to cheer up a bit when we were really tired:) Just please take the garbage with you.
 
 <img src="/img/machupicchu/machupicchu3.jpg"/>
 
 ## The Rail trek
 
 To get to Ollantaytambo, take a micro bus from Av. Grau 525 for... About our visit in Olllantaytambo you can read here. 
-The Veronica combi leaves from the place in front of the local market, Calle Ima Sumac. They leave when they are full. It takes 40 minutes to get to kilometer 77 and it costs 2.5 PEN p.p. It used to go to kilometer 82 but now because of the reconstructions, the road is closed. We don't have any idea for how long, if you can, please update us. When you get of you will see many people preparing for the Inca trek as the trek starts from the km 82. 
+The Veronica combi leaves from the place in front of the local market, Calle Ima Sumac. They leave when they are full. It takes 40 minutes to get to kilometer 77 and it costs 2.5 PEN p.p. It used to go to kilometer 82 but now because of the reconstructions, the road is closed. We don't have any idea for how long, if you can, please update us. When you get off you will see many people preparing for the Inca trek as the trek starts from the km 82. 
 
 <img src="/img/machupicchu/machupicchu4.jpg"/>
 
@@ -94,7 +91,7 @@ You can decide if you want to go by bus or you want to walk. After the previous 
 
 ### The Day D
 We came absolutely exhausted to Aguas Calientes, slept just few hours and in 4:30 we woke up and left for the monument. There is a long queue of people waiting for the buses. If you want to be there on time for the sun rise, you have to wake up very early and wait in the queue. The buses are modern and fast, the ride takes about 25 minutes. Again, you don't get any informations about Machu Picchu inside if you don't pay for a guide. You can find some in front of the entrance. But we did our homework and had informations downloaded in our mobile phone so we didn't need any guide. 
-The ascend to the Montana was exhausting but rewarding. We really recommend to do it at 7:00 not at 9:00. First you will not be sweating like crazy because at 7:00 am is pretty chilli, at 9:00 is crazy hot. Second reason is that Machu Picchu will be covered in mist in front of you all the way up. Then you will just wait for the moment when the mist will go away and Machu Picchu will appeare, it is a magic moment. If you would go at 9:00 you would see it all the way up, what is the point then, going up there?
+The ascend to the Montana was exhausting but rewarding. We really recommend to do it at 7:00 not at 9:00. First you will not be sweating like crazy because at 7:00 am is pretty cold, at 9:00 is crazy hot. Second reason is that Machu Picchu will be covered in mist in front of you all the way up. Then you will just wait for the moment when the mist will go away and Machu Picchu will appeare, it is a magic moment. If you would go at 9:00 you would see it all the way up, what is the point then, going up there?
 
 <img src="/img/machupicchu/machupicchu11.jpg"/>
 
@@ -114,14 +111,16 @@ We slept one more night in Aguas Calientes (2 in total) and in the morning we wa
 
 ### How much did it cost us
 
-	-transport Veronica from Ollantaytambo to km 77			2.5   PEN
-	-hostel in Aguas Calientes, 2 nights					120   PEN
-	-ticket to Machu Picchu and Montana						142   PEN
-	-bus to Machu Picchu, one way  							39	  PEN
-	-collectivo to Santa Teresa								15    PEN
-	-collectivo to Cusco									30    PEN
 
-	suma     												348.5 PEN (106 USD)
-
+<table>
+<tr><td>transport Veronica from Ollantaytambo to km 77</td><td>2.5 PEN</td></tr>
+<tr><td>hostel in Aguas Calientes, 2 nights</td><td>120 PEN</td></tr>
+<tr><td>entrance to Machu Picchu and Montana</td><td>142 PEN</td></tr>
+<tr><td>bus to Machu Picchu, one way</td><td>39 PEN</td></tr>
+<tr><td>collectivo to Santa Teresa</td><td>15 PEN</td></tr>
+<tr><td>collectivo to Cusco</td><td>30 PEN</td></tr>
+<tr><td></td><td></td></tr>
+<tr><td>total</td><td>348.50 PEN (106 USD)</td></tr>
+</table>
 
 The prices are per person.

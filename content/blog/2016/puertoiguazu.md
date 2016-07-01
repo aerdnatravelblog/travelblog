@@ -3,10 +3,10 @@ date=2015-10-26
 type=post
 tags=Puerto Iguazu
 status=draft
-summary=
-description=
+summary=Visiting the Iguazu waterfalls isn't cheap. The bus ticket cost much more then tickets to other destinations in the same distance from B.A.. The food and drinks in the city and especially in the park are pricier then elsewhere. And then there is the entrance to the park.
+description=The city is located 18 km from the waterfalls. We did a lot of research before we planned our trip and because we didn't have much time and money we could decide just for one side of the waterfalls, the Argentinian. In Argentinian side is much more to do then in the Brazilian side. 
 primary_image=
-keywords=
+keywords=Iguazu waterfalls, Puerto Iguazu, How to get to Puerto Iguazu, 
 fb_image=
 ~~~~~~
 <img src="/img/puertoiguazu/puertoiguazu_header.jpg"/>

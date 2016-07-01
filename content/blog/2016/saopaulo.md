@@ -3,10 +3,10 @@ date=2015-10-30
 type=post
 tags=
 status=draft
-summary=
-description=
+summary=We never wanted to go to Sao Paulo. We read on many travel blogs how overpopulated is this city and that there is nothing interesting. After one week in Florianopolis, where was just constantly raining, we decided to pack our backpacks and head to this bustling city. 
+description=Sao Paulo is the Brazilian most populated and richest state. The city was founded by Jesuits in 1554 and it expended in 17th century as coffee trading center. Now it is the industrial, financial and commercial center of Brazil and it is home to more then eleven million people. That's more then population of whole Czech Republic!:) 
 primary_image=/img/saopaulo/saopaulo_header.jpg
-keywords=
+keywords=Sao Paulo, How to get to Sao Paulo, Paulista, Free walking tour, Clash club, nightlife
 fb_image=
 ~~~~~~
 

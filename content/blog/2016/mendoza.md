@@ -3,15 +3,15 @@ date=2015-11-23
 type=post
 tags=Sucre
 status=draft
-summary=
-description=
+summary=We've read in so many travel blogs how Argentina is so expensive country. If we would know how actually cheap can be and how awesome country it is, we plan much more time for our trip then two weeks. It is not definitely so cheap like Bolivia or Peru but it is much less expensive the Europe.
+description=Visiting Mendoza is about eating excellent steaks, drinking delicious wine and visiting bodegas (wineries) and olivicolas (olive oil producers). However, are also coming to Mendoza because it is a good starting point to climb Aconcagua, the highest mountain in the Southern hemisphere. 
 primary_image=/img/mendoza/mendoza_header.jpg
-keywords=
+keywords=Mendoza, Salta, money exchange, winery, Bodegas Cecchin, Maipu, Bodegas Lopez, Olivicola Simone
 fb_image=
 ~~~~~~
 <img src="/img/mendoza/mendoza_header.jpg"/>
 
-When we arrived to Salta, we experienced one of the most humiliating situations in our trip. As we didn't exchange any dollars for ARS (pesos) in San Pedro de Atacama, we came to Salta without any money. It was Sunday night and this was our first Argentinian destination. We were very sure that we will find many Argentinians who will be happy to exchange with us their money in the unofficial rate. Imagine, in ATM you get 9 ARS for 1 USD and at the Blue market the rating is 14-15 ARS for 1 USD. You can save great money like this and for this reason also save your credit cards for another countries. 
+When we arrived to Salta, we experienced one of the worst situations in our trip. As we didn't exchange any dollars for ARS (pesos) in San Pedro de Atacama, we came to Salta without any money. It was Sunday night and this was our first Argentinian destination. We were very sure that we will find many Argentinians who will be happy to exchange with us their money in the unofficial rate. Imagine, in ATM you get 9 ARS for 1 USD and at the Blue market the rating is 14-15 ARS for 1 USD. You can save great money like this and for this reason also save your credit cards for another countries. 
 Unfortunately there was no one on the streets on the Sunday evening so we decided to take money from an ATM. Our hostel wasn't directly in the city and we even didn't have money for bus tickets to get there. We tried dozens of ATMs and no one had money. We met several locals trying to take money as well. We looked at each other and we were thinking if this is real. Is this even possible in so developed country? Are they in the same shitty situation like Greece? Will they be closed for weeks? When the midnight and the leaving time of last bus to our hostel was coming we finally found some ATM with money but it didn't accept our Maestro card and then even our Visa card! We were almost giving up and thinking about sleeping in a park, when somebody change our money on the street and we could catch our last bus to Loki hostel. Don't stay there if you are planning spend just one night in Salta, it is really far away.  
 When we arrived to Mendoza, we went to search for these moneychangers again. We got very good rating in Salta, 15 ARS for 1 USD and we expected the rating be even better in big city like Mendoza. The opposite was true, they were offering us 14 ARS/1 USD. After a while we found a guy who offered us 14.50 ARS/1 USD. We agreed and followed him to a passage where we entered a small office. The fat guy behind the thick glass window shook his head and said that the rating was changed few minutes ago and he can give us just 14 ARS/1 USD. Well played! We exchanged just 100 USD and decided to wait with exchanging more money for the capital city, Buenos Aires. 
 It's not easy to find really good rating and you have to speak at least basic Spanish so they will not cheat you so much. But still it's worth it! 

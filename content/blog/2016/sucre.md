@@ -3,10 +3,10 @@ date=2015-10-23
 type=post
 tags=Sucre
 status=draft
-summary=
-description=
+summary=When we were planning our trip in South America, we decided to study Spanish language and stay in one place for at least four weeks. After long research we decided for capital city of Bolivia, Sucre.
+description=Sucre, the capital city of Bolivia lies in 2800 meters above the sea level. You will feel relieved in Sucre after being in very high elevated La Paz. The weather is usually very stable and sunny all year long.
 primary_image=/img/sucre/sucre_header.jpg
-keywords=
+keywords=Sucre, Spanish language school, Academia Andina
 fb_image=
 ~~~~~~
 <img src="/img/sucre/sucre_header.jpg"/>
